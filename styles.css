@@ -8,6 +8,10 @@ h1, h2 {
     font-size: 1.5em;
 }
 
+img {
+    text-align: center;
+}
+
 ul {
     padding-left: 20px;
     padding-right: 20px;
